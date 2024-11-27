@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismael from 🇪🇸
 - 👀 I’m interested in reverse engineering, game-hacking, game-development and building applications.
-- 🌱 I’m currently learning Java and SQL(MySQL) in high-school studying: cross-platform application development
+- 🌱 I’m currently learning Java,XML,CSS,HTML and SQL(MySQL) in high-school studying: cross-platform application development
 - 💖 I love videogames like rust, wow, project zomboid, roguelikes, etc. I also love music(i even produce music) and basketball.
 - 📫 You can find me easily on discord: ismaelellel
 <!---
